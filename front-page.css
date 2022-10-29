@@ -1,0 +1,93 @@
+body {
+    font-family: Poppins;
+    margin-left: 50px;
+}
+
+.page1 {
+    background-image: url("images/hero-back.png");
+}
+
+.lol {
+    margin-top: 100px;
+}
+
+.text {
+    width: 700px;
+    font-size: 64px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.cup {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.description {
+    width: 636px;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.logo {
+    width: 270px;
+}
+
+.box {
+    vertical-align: top;
+    display: flex;
+    justify-content: space-between;
+}
+
+.topnav {
+    padding-right: 300px;
+    padding-top: 10px;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.topnav a {
+    text-decoration: none;
+    color: #2e2e1f;
+}
+
+.button {
+    background-color: navy;
+    color: white;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    border-radius: 27px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 0px 37px rgba(0, 0, 0, 0.4);
+    border: none;
+}
+
+.button-1 {
+    background-color: navy;
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    border-radius: 27px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 0px 37px rgba(0, 0, 0, 0.4);
+    margin-right: 100px;
+    border: none;
+    text-align: right;
+    vertical-align: top;
+}
+
+.thing {
+    padding-left: 50px;
+    text-align: center;
+}
