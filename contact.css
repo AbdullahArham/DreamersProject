@@ -226,7 +226,6 @@ body {
     border-color: #FFC107;
     transition: opacity 0.15s, border 0.15s;
     margin-top: 10px;
-    position: relative;
 }
 
 .last-button:hover {
