@@ -25,13 +25,13 @@
     height: 400px;
 }
 
-.images {
+.images-tile {
     width: 130px;
     margin-top: 50px;
     align-self: center;
 }
 
-.description {
+.description-tile {
     font-size: large;
 }
 
@@ -41,8 +41,17 @@
     font-weight: 700;
 }
 
-.link {
+.link-tile {
     text-decoration: none;
+}
+
+.more-tiles {
+    background-color: white;
+	padding: 30px;
+	text-align: center;
+	margin-left: 60px;
+	margin-right: 60px;
+	border-radius: 5%;
 }
 
 .new {
