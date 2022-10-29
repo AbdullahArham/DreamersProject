@@ -11,7 +11,7 @@ body {
     margin-top: 100px;
 }
 
-.text {
+.text-first {
     width: 700px;
     font-size: 64px;
     font-weight: bold;
@@ -23,7 +23,7 @@ body {
     margin-bottom: 50px;
 }
 
-.description {
+.description-unleash {
     width: 636px;
     padding-top: 10px;
     font-size: 18px;
