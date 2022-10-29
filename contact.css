@@ -219,7 +219,6 @@ body {
     width: 240px;
     height: 48px;
     font-size: 20px;
-    margin-left: 650px;
     background-color: #FFC107;
     border: 1px solid transparent;
     border-radius: 4px;
@@ -227,6 +226,7 @@ body {
     border-color: #FFC107;
     transition: opacity 0.15s, border 0.15s;
     margin-top: 10px;
+    position: relative;
 }
 
 .last-button:hover {
@@ -236,4 +236,8 @@ body {
 .last-button:active {
     border: 3px solid;
     border-color: #ce9a00;
+}
+
+.page-3 {
+    text-align: center;
 }
