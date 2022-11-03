@@ -3,7 +3,7 @@ body {
 }
 
 .logo {
-    width: 270px;
+    width: 16.875rem;
 }
 
 .box {
@@ -13,12 +13,12 @@ body {
 }
 
 .topnav {
-    padding-right: 300px;
-    padding-top: 10px;
-    font-size: 15px;
+    padding-right: 18.75rem;
+    padding-top: 0.625rem;
+    font-size: 0.93rem;
     display: flex;
     justify-content: space-between;
-    width: 300px;
+    width: 18.75;
 }
 
 .topnav a {
@@ -30,16 +30,16 @@ body {
 .button-1 {
     background-color: navy;
     color: white;
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 10px;
-    font-size: 18px;
+    padding-top: 0.625rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-bottom: 0.625rem;
+    font-size: 1.125rem;
     border-radius: 27px;
     font-weight: bold;
     cursor: pointer;
     box-shadow: 0px 0px 37px rgba(0, 0, 0, 0.4);
-    margin-right: 100px;
+    margin-right: 6.25rem;
     border: none;
     text-align: right;
     vertical-align: top;
@@ -50,9 +50,9 @@ body {
 }
 
 .img-div {
-    width: 636px;
-    margin-right: -100px;
-    margin-top: 20px;
+    width: 39.75rem;
+    margin-right: -6.25rem;
+    margin-top: 1.25rem;
 }
 
 .page-1 {
@@ -61,31 +61,31 @@ body {
 }
 
 .text {
-    width: 636px;
-    margin-top: 120px;
-    margin-left: 100px;
+    width: 39.75rem;
+    margin-top: 7.5rem;
+    margin-left: 6.25rem;
 }
 
 .text h1 {
     color: #012970;
-    font-size: 48px;
+    font-size: 3rem;
 }
 
 .text p {
     color: #444444;
-    font-size: 26px;
+    font-size: 1.625rem;
 }
 
 
 .page-2 {
-    margin-top: 25px;
+    margin-top: 1.5rem;
 }
 
 .title-2 {
     text-align: center;
     color: #012970;
-    margin-bottom: 40px;
-    font-size: 38px;
+    margin-bottom: 2.5rem;
+    font-size: 2.375rem;
 }
 
 .grid-2 {
@@ -99,92 +99,92 @@ body {
 }
 
 .tiles-div {
-    width: 305px;
-    height: 200px;
+    width: 19rem;
+    height: 12.5rem;
     background-color: #fafbff;
-    margin-bottom: 25px;
+    margin-bottom: 1.5rem;
 }
 
 .tile-text {
-    padding-left: 10px;
+    padding-left: 0.625rem;
 }
 
 .tile-h {
     color: #012970;
-    padding-left: 10px;
-    font-size: 20px;
+    padding-left: 0.625rem;
+    font-size: 1.25rem;
 }
 
 .form {
     background-color: #fafbff;
-    margin-bottom: 30px;
-    margin-right: 100px;
-    margin-left: -200px
+    margin-bottom: 1.875rem;
+    margin-right: 6.25rem;
+    margin-left: -12.5rem;
 }
 
 .realform {
-    margin-right: -500px;
-    padding: 30px 30px 30px 30px;
-    padding-right: 10px;
+    margin-right: -31.25rem;
+    padding: 1.875rem 1.875rem 1.875rem 1.875rem;
+    padding-right: 0.625rem;
 }
 
 .name {
-    font-size: 14px;
-    height: 40px;
-    width: 240px;
+    font-size: 0.875rem;
+    height: 2.5rem;
+    width: 15rem;
     border-style: solid;
     background-color: white;
-    padding-left: 10px;
+    padding-left: 0.625rem;
     border-color: rgb(222, 222, 222);
     border-width: 1px;
-    margin-right: 10px;
+    margin-right: 0.625rem;
 }
 
 .email {
-    font-size: 14px;
-    height: 40px;
-    width: 240px;
+    font-size: 0.875rem;
+    height: 2.5rem;
+    width: 15rem;
     border-style: solid;
     background-color: white;
-    padding-left: 10px;
+    padding-left: 0.625rem;
     border-color: rgb(222, 222, 222);
     border-width: 1px;
 }
 
 .subject {
-    font-size: 14px;
-    height: 40px;
-    width: 510px;
+    font-size: 0.875rem;
+    height: 2.5rem;
+    width: 31.875rem;
     border-style: solid;
     background-color: white;
-    padding-left: 10px;
+    padding-left: 0.625rem;
     border-color: rgb(222, 222, 222);
     border-width: 1px;
 }
 
 .message {
-    font-size: 14px;
-    height: 160px;
-    width: 510px;
+    font-size: 0.875rem;
+    height: 10rem;
+    width: 31.875rem;
     border-style: solid;
     background-color: white;
-    padding-left: 10px;
+    padding-left: 0.625rem;
     border-color: rgb(222, 222, 222);
     border-width: 1px;
 }
 
 .send {
-    width: 166px;
-    height: 44px;
+    width: 10.375rem;
+    height: 2.75rem;
     text-align: center;
     border-radius: 5px;
     border: none;
     background-color: #4154F1;
-    font-size: 15px;
+    font-size: 0.93rem;
     color: white;
     text-align: center;
     align-items: center;
-    margin-left: 190px;
+    margin-left: 11.875rem;
     cursor: pointer;
     transition: opacity 0.15s;
 }
@@ -199,33 +199,33 @@ body {
 
 .page-3 {
     background-image: url(images/BG.png);
-    margin-right: -10px;
-    margin-left: -10px;
-    margin-bottom: -50px;
-    margin-top: 25px;
-    padding-bottom: 75px;
+    margin-right: -0.625rem;
+    margin-left: -0.625rem;
+    margin-bottom: -3.125rem;
+    margin-top: 1.5rem;
+    padding-bottom: 4.68rem;
 }
 
 .last {
     color: white;
-    font-size: 50px;
+    font-size: 3.125rem;
     text-align: center;
-    margin-left: 300px;
-    margin-right: 300px;
-    padding-top: 100px;
+    margin-left: 18.75rem;
+    margin-right: 18.75rem;
+    padding-top: 6.25rem;
 }
 
 .last-button {
-    width: 240px;
-    height: 48px;
-    font-size: 20px;
+    width: 15rem;
+    height: 3rem;
+    font-size: 1.25rem;
     background-color: #FFC107;
     border: 1px solid transparent;
     border-radius: 4px;
     cursor: pointer;
     border-color: #FFC107;
     transition: opacity 0.15s, border 0.15s;
-    margin-top: 10px;
+    margin-top: 0.625rem;
 }
 
 .last-button:hover {
